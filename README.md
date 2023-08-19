@@ -4,7 +4,7 @@ Loan\_Status\_Prediction
 -----
 The aim of this project is to predict whether the loan of a person will be approved or not using a dataset from Kaggle using machine learning.
 
-Libraries used: -
+Libraries which we have used: -
 
 -----
 - **Numpy**
